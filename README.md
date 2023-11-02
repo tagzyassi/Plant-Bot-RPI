@@ -3,6 +3,8 @@
 This project realises a Plant-Bot using the Raspberry Pi 3b+ equipped with an analogue capacitive soil moisture sensor and a water pump to measure soil moisture and determine whether the plant needs water. 
 If necessary, the plant will be watered using the pump. Once the soil reaches an adequate moisture level, as indicated by the soil moisture sensor, the pump will automatically turn off. The output on the Raspberry Pi contains additional information such as the current soil moisture level, the pump status (on or off), and the temperature in degrees Celsius.
 
+_The finished project work was moved to GitHub at a later time._
+
 ## Project Setup
 The water pump is connected to a Raspberry Pi via USB and placed in a container filled with water. A hose is used to connect the pump to the plant pot. The soil moisture sensor is inserted into the soil and connected to the Raspberry Pi via ADC.
 
